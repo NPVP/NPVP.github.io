@@ -1,5 +1,5 @@
 <h1 align="center"> A unified model for conditional video prediction </h1>
-
+<h1 align="center"> Continuous conditional video synthesis by neural processes </h1>
 <h3 align="center"> <a href="https://github.com/XiYe20/NPVP" target="_blank">Code<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="30" height="30"></a> <h3>
 
 &nbsp;
